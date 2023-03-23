@@ -1,6 +1,8 @@
 # Harmonic Molecular Representations (HMR)
 
-This is the code repository for our ICLR 2023 paper "Learning Harmonic Molecular Representations on Riemannian Manifold" ([link](https://openreview.net/pdf?id=ySCL-NG_I3)).
+Thanks for your interest in our ICLR 2023 paper "Learning Harmonic Molecular Representations on Riemannian Manifold" ([link](https://openreview.net/pdf?id=ySCL-NG_I3)).
+
+Please refer to the [official repository](https://github.com/bytedance/HMR) for the code and data.
 
 
 ![test](assets/HMR.png)
